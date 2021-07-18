@@ -1,2 +1,4 @@
 # Character-to-Ascii
-Convert a character to a Ascii or unicode value . 
+## Its a very simple script.  
+``` java ascii.java
+```
