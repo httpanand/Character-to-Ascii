@@ -1,4 +1,5 @@
 # Character-to-Ascii
-## Its a very simple script.  
-``` java ascii.java
+## Its a very simple code. 
+```
+java ascii.java
 ```
